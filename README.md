@@ -1,1 +1,1 @@
-I like ice cream.
+I hate ice cream.
